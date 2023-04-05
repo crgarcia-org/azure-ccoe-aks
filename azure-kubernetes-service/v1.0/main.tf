@@ -37,7 +37,7 @@ resource "azurerm_kubernetes_cluster" "aks" {
   }
 
   addonProfiles {
-    
+    open_service_mesh_enabled = true
   }
 
   storage_profile {
