@@ -36,6 +36,10 @@ resource "azurerm_kubernetes_cluster" "aks" {
     load_balancer_sku   = "standard"
   }
 
+  addonProfiles {
+    
+  }
+
   storage_profile {
     blob_driver_enabled = true
     file_driver_enabled = true
