@@ -43,10 +43,13 @@ You are also welcome to open pull-requests to add new parametres
 <img src="readme-media/sql.png" width="70" height="70" />
 
 ## Integration
+<p float="left">
 <img src="readme-media/10042-icon-service-API-Management-Services.svg" width="70" height="70" />
 <img src="readme-media/10840-icon-service-Storage-Queue.svg" width="70" height="70" />
+</p>
 
 ## AI into your apps
+
 <img src="readme-media/10854-icon-service-Media.svg" width="70" height="70" />
 <img src="readme-media/block-chain.svg" width="70" height="70" />
 <img src="readme-media/00028-icon-service-Batch-AI.svg" width="70" height="70" />
