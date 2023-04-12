@@ -17,6 +17,7 @@ If there is a problem in any of the modules you can create an issue in the repo<
 You are also welcome to open pull-requests to add new parametres
 
 # Current list of modules for curated services
+<p float="left">
 ## Compute
 <img src="readme-media/02423-icon-service-Load-Testing.svg" width="70" height="70" />
 <img src="readme-media/03331-icon-service-Azure-Red-Hat-OpenShift.svg" width="70" height="70" />
@@ -64,7 +65,7 @@ You are also welcome to open pull-requests to add new parametres
 <img src="readme-media/10162-icon-service-Cognitive-Services.svg" width="70" height="70" />
 <img src="readme-media/10165-icon-service-Bot-Services.svg" width="70" height="70" />
 <img src="readme-media/aoai.png" width="70" height="70" />
-
+</p>
 
 ## Azure Kubernetes Service
 <img src="readme-media/aks.jpg" width="100" height="100" /><br/>
