@@ -93,7 +93,8 @@ You are also welcome to open pull-requests to add new parametres
 
 ### More information
 Official documentation: https://learn.microsoft.com/en-us/azure/aks/</br>
-Service Owner Contact: aksowners@crgarcia.com.ar
+Service Owner Contact: aksowners@crgarcia.com.ar</br>
+Terraform module: https://github.com/crgarcia-org/azure-ccoe-terraform-modules/tree/main/azure-kubernetes-service
 
 ## Azure Sql Database
 <img src="readme-media/sql.png" width="100" height="100" /><br/>
