@@ -5,7 +5,7 @@
 In your `main.tf` file, add the following:
 
 ```hcl
-module "aks" {
+module "cognitive-search" {
   source              = "github.com/crgarcia-org/azure-ccoe-terraform-modules/cognitive-search/v2.0"
   prefix              = local.prefix
   location            = local.location
